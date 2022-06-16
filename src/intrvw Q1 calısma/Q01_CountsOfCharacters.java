@@ -1,5 +1,3 @@
-package interviewQuestions1;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -27,7 +25,6 @@ public class Q01_CountsOfCharacters {
        //sayac olustur
        int counter =0;
 
-       /*
        for(int i=1;i<arr.length;i++){
            if(arr[i-1].equals(arr[i])){
                     counter++;
@@ -39,11 +36,6 @@ public class Q01_CountsOfCharacters {
                System.out.println(arr[i] + " sayisi " + (counter+1));
            }
        }
-
-        */
-
-
-
 
    }
 
